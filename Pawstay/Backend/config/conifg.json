@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "jdpm",
+      "password": "jdpmspatel",
+      "database": "pawstay",
+      "host": "localhost",
+      "dialect": "mysql"
+    }
+  }
+  
